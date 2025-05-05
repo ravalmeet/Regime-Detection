@@ -1,4 +1,4 @@
-# Regime Detection System for Silver Trading
+# Regime Detection System
 
 ## 🧠 Project Overview
 
